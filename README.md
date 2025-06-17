@@ -2,7 +2,7 @@
 
 A simple REST API for managing pizza restaurants and their menus.
 
-##   Start
+
 
 1. Install dependencies:
 ```bash
